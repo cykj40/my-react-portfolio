@@ -19,7 +19,7 @@ function App() {
   return (
     <main className="scroll">
       <Landing setPage={setPage} />
-      <Navbar page={page} setPage={setPage} />
+      <Navbar setPage={setPage} page={page} />
       <AboutMe setPage={setPage} /> 
       <Projects setPage={setPage} projects={projects} />
       <Resume
