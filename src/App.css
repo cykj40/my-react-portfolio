@@ -24,4 +24,13 @@ section {
   scroll-snap-align: end;
 }
 
-.btn {}
+.btn {
+  color: #36454F !important;
+  border-color: #36454F !important;
+}
+
+.btn:hover {
+  color: #fff !important;
+  background-color: #36454F !important;
+  
+}
