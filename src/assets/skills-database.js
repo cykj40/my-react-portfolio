@@ -16,8 +16,9 @@ const skills = [
         icon: <i className="devicon-indexeddb-plain colored"></i>,
     },
     {
-        name: "PostgreSQL",
-        icon: <i className="devicon-postgresql-plain colored"></i>,
+        name: "jawsDB",
+        icon: <i className="devicon-jawsdb-plain colored"></i>,
+       
     },
     {
         name: "dynamoDB",
