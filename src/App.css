@@ -25,12 +25,12 @@ section {
 }
 
 .btn {
-  color: #36454F !important;
-  border-color: #36454F !important;
+  color: aliceblue !important;
+  border-color: aliceblue !important;
 }
 
 .btn:hover {
-  color: #fff !important;
-  background-color: #36454F !important;
+  color: black !important;
+  background-color: aliceblue !important;
   
 }

@@ -1,0 +1,12 @@
+.links {
+    font-size: 14px;
+    color:aliceblue !important;
+    text-decoration: none !important;
+    margin: 0px 10px;
+    opacity: 0.6;
+
+}
+
+.links:hover {
+    opacity: 1;
+}

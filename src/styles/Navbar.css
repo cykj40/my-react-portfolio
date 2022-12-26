@@ -1,0 +1,29 @@
+.navbar {
+    background-color: aliceblue !important;
+    opacity: 0.9;
+
+}
+
+.active {
+    color: white !important;
+    padding-right: 0.5rem !important;
+    padding-left: 0.5rem !important;
+    display: block;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.nav-link,
+.navbar-brand {
+    color: black !important;
+   
+}
+
+.nav-link:hover,
+.navbar-brand:hover {
+    color: aliceblue !important;
+    
+}
+
+
