@@ -1,0 +1,17 @@
+.footer {
+    position: relative;
+    bottom: 0px;
+}
+
+.contact-info {
+    font-size: 16px;
+    margin: 40px 10px;
+    color: black !important;
+    opacity: 0.6;
+    text-decoration: none;
+
+}
+
+.contact-info:hover {
+    opacity: 1;
+}
